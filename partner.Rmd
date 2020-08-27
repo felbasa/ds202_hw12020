@@ -1,0 +1,8 @@
+---
+title: "partner.Rmd"
+author: "Brett White"
+---
+- Brett White - bwhite2-iastate
+- Lastest commit: 2f3e7db414d633b8ecfeefabe498dc41b4f865ac - added files from first homework
+- Knitted hw1.Rmd successfully without errors
+- Did not encounter any error or difficulty, tip might be to include images with instructions and also a git cheat sheet
